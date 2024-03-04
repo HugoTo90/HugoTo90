@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="600" src="https://img.freepik.com/foto-gratis/fondo-colorido-abstracto-pintura-arte-purpura-liquido-salpicaduras-color-pinturas-arte-moderno_1258-103360.jpg"  />
+<div align="left">
+  <img height="400" src="https://img.freepik.com/vector-gratis/humo-morado-rosa-oscuridad_52683-83786.jpg"  />
 </div>
 
 ###
