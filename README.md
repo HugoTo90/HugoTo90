@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Buenas, soy Jugo, y si buscas codigo lleno de bugs y erorres este es tu sitio.</p>
+<p align="left">Estos son los lenguajes que se usar:</p>
 
 ###
 
