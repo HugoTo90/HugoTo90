@@ -1,4 +1,6 @@
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/162112907?v=4"  />
+<div align="center">
+  <img height="600" src="https://img.freepik.com/foto-gratis/fondo-colorido-abstracto-pintura-arte-purpura-liquido-salpicaduras-color-pinturas-arte-moderno_1258-103360.jpg"  />
+</div>
 
 ###
 
@@ -6,7 +8,7 @@
 
 ###
 
-<p align="left">Si buscas codigo lleno de bugs y erorres este es tu sitio.</p>
+<p align="left">Buenas, soy Jugo, y si buscas codigo lleno de bugs y erorres este es tu sitio.</p>
 
 ###
 
